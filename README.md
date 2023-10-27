@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+It's from a code along explaining useEffect by: https://www.youtube.com/watch?v=0ZJgIjIuY7U .
+
 ## Available Scripts
 
 In the project directory, you can run:
